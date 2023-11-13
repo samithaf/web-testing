@@ -1,0 +1,16 @@
+{
+  "name": "web-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [],
+  "author": "Samitha Fernando",
+  "license": "MIT",
+  "dependencies": {
+    "odiff-bin": "^2.6.1",
+    "puppeteer": "^21.5.0"
+  }
+}
