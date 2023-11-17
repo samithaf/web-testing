@@ -150,6 +150,7 @@ const screens = [
 
     await captureScreens('current');
     await captureScreens('next');
+    await compareScreens();
 
 })();
 
